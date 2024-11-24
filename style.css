@@ -140,7 +140,7 @@ body{
 }
 #about-img{
     position: relative;
-    border: solid 1px white;
+    /* border: solid 1px white; */
     border-radius: 5px;
     height: 90%;
 }
